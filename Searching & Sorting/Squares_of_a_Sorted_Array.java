@@ -29,6 +29,7 @@ class Solution {
         return result;
     }
 }
+
 Approach 2: Brute Force Approach
 Time Complexity: O(N^2)
 
